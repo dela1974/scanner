@@ -1,0 +1,17 @@
+{
+  "Amazon Cloudfront": {
+    "categories": [
+      "SaaS"
+    ]
+  },
+  "Amazon Web Services": {
+    "categories": [
+      "PaaS"
+    ]
+  },
+  "Handlebars": {
+    "categories": [
+      "JavaScript frameworks"
+    ]
+  }
+}
